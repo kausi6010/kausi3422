@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kausi3422
 - 👀 I’m interested in backend development for now
 - 🌱 I’m currently learning microservices architecture  
-- 💞️ I’m looking to collaborate on interesting propjects
+- 💞️ I’m looking to collaborate on interesting propects
 - 📫 How to reach me -> message me
 
 <!---
